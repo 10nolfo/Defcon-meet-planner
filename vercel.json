@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "api/lifter.js": { "maxDuration": 10 },
-    "api/search.js": { "maxDuration": 10 }
-  }
-}
